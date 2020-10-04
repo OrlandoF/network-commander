@@ -7,7 +7,7 @@
   "targets": {
     ".NETCoreApp,Version=v3.1": {},
     ".NETCoreApp,Version=v3.1/win-x64": {
-      "ns/1.0.0": {
+      "ns/0.1.0": {
         "dependencies": {
           "Terminal.Gui": "0.90.3",
           "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "3.1.8"
@@ -871,7 +871,7 @@
     }
   },
   "libraries": {
-    "ns/1.0.0": {
+    "ns/0.1.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

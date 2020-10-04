@@ -11,7 +11,7 @@ namespace ns
         {
 
             Width = Dim.Fill();
-            Height = Dim.Fill();
+            Height = Dim.Sized(1);  // Dim.Fill();
 
             var firstIpLabel = new Label("First Ip ");
             var firstIpText = new TextField("") { X = Pos.Right(firstIpLabel), Width = 15};
