@@ -1,0 +1,16 @@
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.exe
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.csprojAssemblyReference.cache
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.AssemblyInfoInputs.cache
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.AssemblyInfo.cs
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.deps.json
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.runtimeconfig.json
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.runtimeconfig.dev.json
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.dll
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\ns.pdb
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\NStack.dll
+C:\Users\gomes\source\repos\NetworkCommander\ns\bin\Debug\netcoreapp3.1\Terminal.Gui.dll
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.csproj.CoreCompileInputs.cache
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.csproj.CopyComplete
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.dll
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.pdb
+C:\Users\gomes\source\repos\NetworkCommander\ns\obj\Debug\netcoreapp3.1\ns.genruntimeconfig.cache

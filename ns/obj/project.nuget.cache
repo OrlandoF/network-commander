@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "x+RcZpP6tO78Fx6o/awVB+5oTAISodt0TidxMpG/OLS1QgWMHUpfJI93E08pVEHfzqlxFgz1Wa+FQpGGRwEtXw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gomes\\source\\repos\\NetworkCommander\\ns\\ns.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gomes\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\gomes\\.nuget\\packages\\nstack.core\\0.14.0\\nstack.core.0.14.0.nupkg.sha512",
+    "C:\\Users\\gomes\\.nuget\\packages\\terminal.gui\\0.90.3\\terminal.gui.0.90.3.nupkg.sha512",
+    "C:\\Users\\gomes\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\3.1.8\\microsoft.windowsdesktop.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\gomes\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\3.1.8\\microsoft.netcore.app.runtime.win-x64.3.1.8.nupkg.sha512",
+    "C:\\Users\\gomes\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\3.1.8\\microsoft.aspnetcore.app.runtime.win-x64.3.1.8.nupkg.sha512"
+  ],
+  "logs": []
+}
