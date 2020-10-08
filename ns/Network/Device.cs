@@ -13,7 +13,7 @@ namespace ns.Network
 
         public override string ToString()
         {
-            return Ip.ToString() + Key.Tab + Name;
+            return Ip.ToString() + "  " + Name;
         }
     }
 }

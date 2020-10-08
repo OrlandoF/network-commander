@@ -1,5 +1,6 @@
 ﻿using ns.Network;
 using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using Terminal.Gui;
@@ -30,6 +31,9 @@ namespace ns
         {
             resultView.SetSource(devices);
         }
-
+        public void RefreshDeviceList(IList devices)
+        {
+            resultView.SetSource(devices);
+        }
     }
 }

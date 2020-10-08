@@ -1,5 +1,7 @@
 ﻿using ns.Network;
 using System;
+using System.Linq;
+using System.Security.Cryptography.X509Certificates;
 using Terminal.Gui;
 
 namespace ns
@@ -31,12 +33,21 @@ namespace ns
 
             
             top.Add(mainWindow, statusBar);
+
+            
             Application.Run(top);
         }
 
         static void StartSearch(App app)
         {
-            var result = IpScan.ListAll();
+            var parameters = new ScanParameters();
+            var range = IpConfig.IpRangeForIpAddress(IpConfig.ListIpV4Addresses().FirstOrDefault());
+            parameters.StartIp = range[0];
+            parameters.LastIp = range[1];
+
+            var scanner = new IpScan();
+
+            var result = scanner.ScanIpRange(parameters);
             app.RefreshDeviceList(result);
         }
 
